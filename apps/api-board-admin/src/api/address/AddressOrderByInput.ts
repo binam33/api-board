@@ -4,6 +4,7 @@ export type AddressOrderByInput = {
   address_1?: SortOrder;
   address_2?: SortOrder;
   city?: SortOrder;
+  company?: SortOrder;
   createdAt?: SortOrder;
   id?: SortOrder;
   state?: SortOrder;
